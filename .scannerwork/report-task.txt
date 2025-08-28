@@ -1,0 +1,6 @@
+projectKey=myportfolio
+serverUrl=http://localhost:9010
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9010/dashboard?id=myportfolio
+ceTaskId=1c4c4d40-db7b-4a7d-857c-dbdba8de5199
+ceTaskUrl=http://localhost:9010/api/ce/task?id=1c4c4d40-db7b-4a7d-857c-dbdba8de5199
